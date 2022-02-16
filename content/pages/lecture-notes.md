@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 09671ff8-f164-6db8-195c-1bcfefe5f599
 ---
@@ -127,7 +130,7 @@ The Grassmanian is Universal
 9
 {{< tdclose >}}
 {{< tdopen >}}
-The Embedding Manifolds in RN
+The Embedding Manifolds in R{{< sup "N" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture9))

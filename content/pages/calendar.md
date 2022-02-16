@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: bfebbd90-3dd1-ca0b-dce3-96cf360e5830
 ---
@@ -100,7 +102,7 @@ The Grassmanian is Universal
 9
 {{< tdclose >}}
 {{< tdopen >}}
-The Embedding Manifolds in RN
+The Embedding Manifolds in R{{< sup "N" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-965-geometry-of-manifolds-fall-2004/b3013460d91612938c90974759123906_math965f04hk2.pdf
+file: /media/courses/18-965-geometry-of-manifolds-fall-2004/b3013460d91612938c90974759123906_math965f04hk2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: math965f04hk2.pdf
 uid: b3013460-d916-1293-8c90-974759123906
