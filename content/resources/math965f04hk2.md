@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 696b7688-55c7-420d-c1b5-1fb908934bf5
 resourcetype: Document
 title: math965f04hk2.pdf
 uid: b3013460-d916-1293-8c90-974759123906
