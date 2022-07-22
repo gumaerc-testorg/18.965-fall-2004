@@ -5,6 +5,7 @@ file: /courses/18-965-geometry-of-manifolds-fall-2004/0ca1ef5e60dcf0244f9118869d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture31.pdf
 uid: 0ca1ef5e-60dc-f024-4f91-18869d160c2e
 ---
 Outline and notes for Lecture 31.
-

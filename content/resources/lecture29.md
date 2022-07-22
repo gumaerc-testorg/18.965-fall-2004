@@ -5,6 +5,7 @@ file: /courses/18-965-geometry-of-manifolds-fall-2004/292c457f2098de38b253ff5363
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture29.pdf
 uid: 292c457f-2098-de38-b253-ff53638c52a5
 ---
 Outline and notes for Lecture 29.
-

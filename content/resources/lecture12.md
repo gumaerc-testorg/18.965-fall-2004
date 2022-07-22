@@ -5,6 +5,7 @@ file: /courses/18-965-geometry-of-manifolds-fall-2004/32bfddb3cba4e5f5e7390b31f7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture12.pdf
 uid: 32bfddb3-cba4-e5f5-e739-0b31f7c82155
 ---
 Outline and notes for Lecture 12.
-

@@ -5,6 +5,7 @@ file: /courses/18-965-geometry-of-manifolds-fall-2004/b3013460d91612938c90974759
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: math965f04hk2.pdf
 uid: b3013460-d916-1293-8c90-974759123906
 ---
 Homework problems.
-
