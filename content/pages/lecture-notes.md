@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 09671ff8-f164-6db8-195c-1bcfefe5f599
 ---
@@ -28,7 +32,7 @@ LECTURE NOTES
 Manifolds: Definitions and Examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1))
+({{% resource_link 34fad8f3-9220-8544-e2b1-e9794c33cbe7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Smooth Maps and the  Notion of Equivalence
 Standard Pathologies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2))
+({{% resource_link b481a27f-b158-3bba-f431-53bcaf0643fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ Standard Pathologies
 The Derivative of a Map between Vector Spaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture3))
+({{% resource_link 8d7124c3-dc99-45db-1eea-3fbe3cf07748 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +70,7 @@ The Derivative of a Map between Vector Spaces
 Inverse and Implicit Function Theorems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture4))
+({{% resource_link 55a71372-72a9-7179-db2a-80b6e20d5de0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Inverse and Implicit Function Theorems
 More Examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture5))
+({{% resource_link 70904549-fb8d-ee30-e3cb-4a2d028929e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +94,7 @@ More Examples
 Vector Bundles and the Differential: New Vector Bundles from Old
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture6))
+({{% resource_link f857302f-467d-16fa-8493-dc0921b86d71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +106,7 @@ Vector Bundles and the Differential: New Vector Bundles from Old
 Vector Bundles and the Differential: The Tangent Bundle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture7))
+({{% resource_link de18bf00-29c5-83ca-cffb-09810879bb54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +122,7 @@ Partitions of Unity
 The Grassmanian is Universal
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture8))
+({{% resource_link 187bc6b7-2bf7-8951-7b04-2986ada54f9b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,10 +131,10 @@ The Grassmanian is Universal
 9
 {{< tdclose >}}
 {{< tdopen >}}
-The Embedding Manifolds in RN
+The Embedding Manifolds in R{{< sup "N" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture9))
+({{% resource_link 86bd64ce-14d5-dd2e-e54e-157d29213a36 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +146,7 @@ The Embedding Manifolds in RN
 Sard's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10_11))
+({{% resource_link 10813941-582d-898e-eabd-93f7cc0d46f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +158,7 @@ Sard's Theorem
 Stratified Spaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12))
+({{% resource_link 32bfddb3-cba4-e5f5-e739-0b31f7c82155 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Stratified Spaces
 Fiber Bundles
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture13))
+({{% resource_link 2c6952d2-1677-48b6-2732-3ee455a6e949 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +182,7 @@ Fiber Bundles
 Whitney's Embedding Theorem, Medium Version
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture14))
+({{% resource_link 56a9ee64-fec6-14c7-49e3-7517a603bde9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +196,7 @@ A Brief Introduction to Linear Analysis: Basic Definitions
 A Brief Introduction to Linear Analysis: Compact Operators 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture15))
+({{% resource_link 070b537e-54d4-24b7-efbd-57161f5296ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +208,7 @@ A Brief Introduction to Linear Analysis: Compact Operators 
 A Brief Introduction to Linear Analysis: Fredholm Operators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture16_17))
+({{% resource_link 8a7e4dd8-37d1-bdd6-988e-0330babb8c5e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +220,7 @@ A Brief Introduction to Linear Analysis: Fredholm Operators
 Smale's Sard Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture18_19))
+({{% resource_link c71877e4-2e00-978f-03da-79f558aa5892 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +232,7 @@ Smale's Sard Theorem
 Parametric Transversality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture20))
+({{% resource_link 99d9dc3a-d683-7fa7-e851-f57d685d681b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +244,7 @@ Parametric Transversality
 The Strong Whitney Embedding Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture21_22))
+({{% resource_link d0598b3b-5ced-2d2d-0a98-84ee14abeae3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +256,7 @@ The Strong Whitney Embedding Theorem
 Morse Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture23_28))
+({{% resource_link 3ed047b0-564e-e974-69e7-d2926acc2229 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +268,7 @@ Morse Theory
 Canonical Forms: The Lie Derivative
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture29))
+({{% resource_link 292c457f-2098-de38-b253-ff53638c52a5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +288,7 @@ The Holonomy of Closed Loop in a Leaf
 Reeb's Stability Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture30))
+({{% resource_link 30852f9a-0a93-3b9d-f310-60c8a2e748e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +300,7 @@ Reeb's Stability Theorem
 Differential Forms and de Rham's Theorem: The Exterior Algebra
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture31))
+({{% resource_link 0ca1ef5e-60dc-f024-4f91-18869d160c2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +314,7 @@ Differential Forms and de Rham's Theorem: The Poincaré Lemma and Homotopy Invar
 Cech Cohomology
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture32))
+({{% resource_link f3b50ba4-ef94-6547-34c1-389966b19d72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +326,7 @@ Cech Cohomology
 Refinement The Acyclicity of the Sheaf of p-forms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture33))
+({{% resource_link 6d98c2ce-8b2e-afdc-842c-aa1b1efd252e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +338,7 @@ Refinement The Acyclicity of the Sheaf of p-forms
 The Poincaré Lemma Implies the Equality of Cech Cohomology and de Rham Cohomology
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture34))
+({{% resource_link 3fd765fe-c178-98e5-7e71-6c7ef400b3f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +350,7 @@ The Poincaré Lemma Implies the Equality of Cech Cohomology and de Rham Cohomolo
 The Immersion Theorem of Smale
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture35))
+({{% resource_link a4a2f536-3463-1c50-f0dc-5133916619c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
