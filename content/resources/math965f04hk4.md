@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework problems.
 file: /courses/18-965-geometry-of-manifolds-fall-2004/5adc64ab230dc997dcae180597e80ec2_math965f04hk4.pdf
+file_size: 57663
 file_type: application/pdf
 learning_resource_types:
 - Assignments

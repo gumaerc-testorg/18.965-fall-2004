@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline and notes for Lecture 4.
 file: /courses/18-965-geometry-of-manifolds-fall-2004/55a7137272a97179db2a80b6e20d5de0_lecture4.pdf
+file_size: 82046
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
