@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline and notes for Lecture 8.
-file: /ol-ocw-studio-app/courses/18-965-geometry-of-manifolds-fall-2004/187bc6b72bf789517b042986ada54f9b_lecture8.pdf
+file: /courses/18-965-geometry-of-manifolds-fall-2004/187bc6b72bf789517b042986ada54f9b_lecture8.pdf
 file_size: 69643
 file_type: application/pdf
 learning_resource_types:

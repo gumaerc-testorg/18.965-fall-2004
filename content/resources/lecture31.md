@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline and notes for Lecture 31.
-file: /ol-ocw-studio-app/courses/18-965-geometry-of-manifolds-fall-2004/0ca1ef5e60dcf0244f9118869d160c2e_lecture31.pdf
+file: /courses/18-965-geometry-of-manifolds-fall-2004/0ca1ef5e60dcf0244f9118869d160c2e_lecture31.pdf
 file_size: 87840
 file_type: application/pdf
 learning_resource_types:
