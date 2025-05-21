@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline and notes for Lectures 21 and 22.
-file: /ol-ocw-studio-app/courses/18-965-geometry-of-manifolds-fall-2004/d0598b3b5ced2d2d0a9884ee14abeae3_lecture21_22.pdf
+file: /courses/18-965-geometry-of-manifolds-fall-2004/d0598b3b5ced2d2d0a9884ee14abeae3_lecture21_22.pdf
 file_size: 93698
 file_type: application/pdf
 learning_resource_types:

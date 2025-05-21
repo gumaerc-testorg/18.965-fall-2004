@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /ol-ocw-studio-app/courses/18-965-geometry-of-manifolds-fall-2004/824857425d9f8728dd3f42a2caa1fa2f_math965f04hk6.pdf
+file: /courses/18-965-geometry-of-manifolds-fall-2004/824857425d9f8728dd3f42a2caa1fa2f_math965f04hk6.pdf
 file_size: 78453
 file_type: application/pdf
 learning_resource_types:
